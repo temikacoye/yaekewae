@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://leivaiyau.1rick.com/sitemap.xml
